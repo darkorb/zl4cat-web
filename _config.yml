@@ -1,1 +1,10 @@
-theme: jekyll-theme-hacker
+title: 'zl4c.at'
+description: "Page for ZL4CAT"
+url: "https://zl4c.at"
+
+header_pages:
+  - index.md
+
+style: dark
+
+remote_theme: b2a3e8/jekyll-theme-console

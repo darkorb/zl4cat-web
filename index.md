@@ -10,6 +10,6 @@ I run with both a IC-7300 and a G90, into an EFHW or a one of my portable vertic
 
 ---
 
-Why ZL4CAT? Well this is my Tamar when she was a few months old, she's a Devon Rex and joined our assorted fur family around 2016 - I'm very much "crazy cat man" according to those familar with me, hence ZL4CAT :)
+This is my little cat Tamar when she was a few months old, she's a Devon Rex and joined our assorted fur family around 2016 - I'm very much "crazy cat man" according to those familar with me, hence ZL4CAT :)
 
 <img src="img/tamar_cat.jpg" width="256">
